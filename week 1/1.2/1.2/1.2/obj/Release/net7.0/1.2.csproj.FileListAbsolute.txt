@@ -1,0 +1,15 @@
+/Users/thuanduc/Projects/1.2/1.2/bin/Release/net7.0/1.2
+/Users/thuanduc/Projects/1.2/1.2/bin/Release/net7.0/1.2.deps.json
+/Users/thuanduc/Projects/1.2/1.2/bin/Release/net7.0/1.2.runtimeconfig.json
+/Users/thuanduc/Projects/1.2/1.2/bin/Release/net7.0/1.2.dll
+/Users/thuanduc/Projects/1.2/1.2/bin/Release/net7.0/1.2.pdb
+/Users/thuanduc/Projects/1.2/1.2/obj/Release/net7.0/1.2.csproj.AssemblyReference.cache
+/Users/thuanduc/Projects/1.2/1.2/obj/Release/net7.0/1.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanduc/Projects/1.2/1.2/obj/Release/net7.0/1.2.AssemblyInfoInputs.cache
+/Users/thuanduc/Projects/1.2/1.2/obj/Release/net7.0/1.2.AssemblyInfo.cs
+/Users/thuanduc/Projects/1.2/1.2/obj/Release/net7.0/1.2.csproj.CoreCompileInputs.cache
+/Users/thuanduc/Projects/1.2/1.2/obj/Release/net7.0/1.2.dll
+/Users/thuanduc/Projects/1.2/1.2/obj/Release/net7.0/refint/1.2.dll
+/Users/thuanduc/Projects/1.2/1.2/obj/Release/net7.0/1.2.pdb
+/Users/thuanduc/Projects/1.2/1.2/obj/Release/net7.0/1.2.genruntimeconfig.cache
+/Users/thuanduc/Projects/1.2/1.2/obj/Release/net7.0/ref/1.2.dll
