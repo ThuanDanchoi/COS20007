@@ -1,0 +1,15 @@
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.3/2.3/obj/Debug/net7.0/ShapeDrawer.csproj.AssemblyReference.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.3/2.3/obj/Debug/net7.0/ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.3/2.3/obj/Debug/net7.0/ShapeDrawer.AssemblyInfoInputs.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.3/2.3/obj/Debug/net7.0/ShapeDrawer.AssemblyInfo.cs
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.3/2.3/obj/Debug/net7.0/ShapeDrawer.csproj.CoreCompileInputs.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.3/2.3/bin/Debug/net7.0/ShapeDrawer
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.3/2.3/bin/Debug/net7.0/ShapeDrawer.deps.json
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.3/2.3/bin/Debug/net7.0/ShapeDrawer.runtimeconfig.json
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.3/2.3/bin/Debug/net7.0/ShapeDrawer.dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.3/2.3/bin/Debug/net7.0/ShapeDrawer.pdb
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.3/2.3/obj/Debug/net7.0/ShapeDrawer.dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.3/2.3/obj/Debug/net7.0/refint/ShapeDrawer.dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.3/2.3/obj/Debug/net7.0/ShapeDrawer.pdb
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.3/2.3/obj/Debug/net7.0/ShapeDrawer.genruntimeconfig.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.3/2.3/obj/Debug/net7.0/ref/ShapeDrawer.dll
