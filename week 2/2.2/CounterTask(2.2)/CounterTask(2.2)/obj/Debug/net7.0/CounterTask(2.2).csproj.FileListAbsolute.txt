@@ -1,0 +1,30 @@
+/Users/thuanduc/Projects/CounterTask(2.2)/CounterTask(2.2)/bin/Debug/net7.0/CounterTask(2.2)
+/Users/thuanduc/Projects/CounterTask(2.2)/CounterTask(2.2)/bin/Debug/net7.0/CounterTask(2.2).deps.json
+/Users/thuanduc/Projects/CounterTask(2.2)/CounterTask(2.2)/bin/Debug/net7.0/CounterTask(2.2).runtimeconfig.json
+/Users/thuanduc/Projects/CounterTask(2.2)/CounterTask(2.2)/bin/Debug/net7.0/CounterTask(2.2).dll
+/Users/thuanduc/Projects/CounterTask(2.2)/CounterTask(2.2)/bin/Debug/net7.0/CounterTask(2.2).pdb
+/Users/thuanduc/Projects/CounterTask(2.2)/CounterTask(2.2)/obj/Debug/net7.0/CounterTask(2.2).csproj.AssemblyReference.cache
+/Users/thuanduc/Projects/CounterTask(2.2)/CounterTask(2.2)/obj/Debug/net7.0/CounterTask(2.2).GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanduc/Projects/CounterTask(2.2)/CounterTask(2.2)/obj/Debug/net7.0/CounterTask(2.2).AssemblyInfoInputs.cache
+/Users/thuanduc/Projects/CounterTask(2.2)/CounterTask(2.2)/obj/Debug/net7.0/CounterTask(2.2).AssemblyInfo.cs
+/Users/thuanduc/Projects/CounterTask(2.2)/CounterTask(2.2)/obj/Debug/net7.0/CounterTask(2.2).csproj.CoreCompileInputs.cache
+/Users/thuanduc/Projects/CounterTask(2.2)/CounterTask(2.2)/obj/Debug/net7.0/CounterTask(2.2).dll
+/Users/thuanduc/Projects/CounterTask(2.2)/CounterTask(2.2)/obj/Debug/net7.0/refint/CounterTask(2.2).dll
+/Users/thuanduc/Projects/CounterTask(2.2)/CounterTask(2.2)/obj/Debug/net7.0/CounterTask(2.2).pdb
+/Users/thuanduc/Projects/CounterTask(2.2)/CounterTask(2.2)/obj/Debug/net7.0/CounterTask(2.2).genruntimeconfig.cache
+/Users/thuanduc/Projects/CounterTask(2.2)/CounterTask(2.2)/obj/Debug/net7.0/ref/CounterTask(2.2).dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.2/CounterTask(2.2)/CounterTask(2.2)/bin/Debug/net7.0/CounterTask(2.2)
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.2/CounterTask(2.2)/CounterTask(2.2)/bin/Debug/net7.0/CounterTask(2.2).deps.json
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.2/CounterTask(2.2)/CounterTask(2.2)/bin/Debug/net7.0/CounterTask(2.2).runtimeconfig.json
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.2/CounterTask(2.2)/CounterTask(2.2)/bin/Debug/net7.0/CounterTask(2.2).dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.2/CounterTask(2.2)/CounterTask(2.2)/bin/Debug/net7.0/CounterTask(2.2).pdb
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.2/CounterTask(2.2)/CounterTask(2.2)/obj/Debug/net7.0/CounterTask(2.2).csproj.AssemblyReference.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.2/CounterTask(2.2)/CounterTask(2.2)/obj/Debug/net7.0/CounterTask(2.2).GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.2/CounterTask(2.2)/CounterTask(2.2)/obj/Debug/net7.0/CounterTask(2.2).AssemblyInfoInputs.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.2/CounterTask(2.2)/CounterTask(2.2)/obj/Debug/net7.0/CounterTask(2.2).AssemblyInfo.cs
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.2/CounterTask(2.2)/CounterTask(2.2)/obj/Debug/net7.0/CounterTask(2.2).csproj.CoreCompileInputs.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.2/CounterTask(2.2)/CounterTask(2.2)/obj/Debug/net7.0/CounterTask(2.2).dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.2/CounterTask(2.2)/CounterTask(2.2)/obj/Debug/net7.0/refint/CounterTask(2.2).dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.2/CounterTask(2.2)/CounterTask(2.2)/obj/Debug/net7.0/CounterTask(2.2).pdb
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.2/CounterTask(2.2)/CounterTask(2.2)/obj/Debug/net7.0/CounterTask(2.2).genruntimeconfig.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 2/2.2/CounterTask(2.2)/CounterTask(2.2)/obj/Debug/net7.0/ref/CounterTask(2.2).dll
