@@ -1,0 +1,15 @@
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.1/ClockTask(3.1)/ClockTask(3.1)/bin/Debug/net7.0/ClockClass
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.1/ClockTask(3.1)/ClockTask(3.1)/bin/Debug/net7.0/ClockClass.deps.json
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.1/ClockTask(3.1)/ClockTask(3.1)/bin/Debug/net7.0/ClockClass.runtimeconfig.json
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.1/ClockTask(3.1)/ClockTask(3.1)/bin/Debug/net7.0/ClockClass.dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.1/ClockTask(3.1)/ClockTask(3.1)/bin/Debug/net7.0/ClockClass.pdb
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.1/ClockTask(3.1)/ClockTask(3.1)/obj/Debug/net7.0/ClockClass.csproj.AssemblyReference.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.1/ClockTask(3.1)/ClockTask(3.1)/obj/Debug/net7.0/ClockClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.1/ClockTask(3.1)/ClockTask(3.1)/obj/Debug/net7.0/ClockClass.AssemblyInfoInputs.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.1/ClockTask(3.1)/ClockTask(3.1)/obj/Debug/net7.0/ClockClass.AssemblyInfo.cs
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.1/ClockTask(3.1)/ClockTask(3.1)/obj/Debug/net7.0/ClockClass.csproj.CoreCompileInputs.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.1/ClockTask(3.1)/ClockTask(3.1)/obj/Debug/net7.0/ClockClass.dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.1/ClockTask(3.1)/ClockTask(3.1)/obj/Debug/net7.0/refint/ClockClass.dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.1/ClockTask(3.1)/ClockTask(3.1)/obj/Debug/net7.0/ClockClass.pdb
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.1/ClockTask(3.1)/ClockTask(3.1)/obj/Debug/net7.0/ClockClass.genruntimeconfig.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.1/ClockTask(3.1)/ClockTask(3.1)/obj/Debug/net7.0/ref/ClockClass.dll

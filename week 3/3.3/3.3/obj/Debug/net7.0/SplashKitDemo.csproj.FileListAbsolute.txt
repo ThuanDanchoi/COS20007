@@ -1,0 +1,15 @@
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/SplashKitDemo/bin/Debug/net7.0/SplashKitDemo
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/SplashKitDemo/bin/Debug/net7.0/SplashKitDemo.deps.json
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/SplashKitDemo/bin/Debug/net7.0/SplashKitDemo.runtimeconfig.json
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/SplashKitDemo/bin/Debug/net7.0/SplashKitDemo.dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/SplashKitDemo/bin/Debug/net7.0/SplashKitDemo.pdb
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.csproj.AssemblyReference.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.AssemblyInfoInputs.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.AssemblyInfo.cs
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.csproj.CoreCompileInputs.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/SplashKitDemo/obj/Debug/net7.0/refint/SplashKitDemo.dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.pdb
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.genruntimeconfig.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/SplashKitDemo/obj/Debug/net7.0/ref/SplashKitDemo.dll

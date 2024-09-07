@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{472F90E1-0F2B-4754-9FC8-D908807224CA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CounterTest.cs">
+    <Files>
+      <File FileName="ClockTest.cs" Line="7" Column="3" />
+      <File FileName="CounterTest.cs" Line="5" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClockTest" expanded="True">
+            <Node name="ClockTest" expanded="True">
+              <Node name="CounterTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ClockTest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ClockTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

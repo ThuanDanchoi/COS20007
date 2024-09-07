@@ -1,0 +1,15 @@
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.3/3.3/bin/Debug/net7.0/DrawingShape
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.3/3.3/bin/Debug/net7.0/DrawingShape.deps.json
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.3/3.3/bin/Debug/net7.0/DrawingShape.runtimeconfig.json
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.3/3.3/bin/Debug/net7.0/DrawingShape.dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.3/3.3/bin/Debug/net7.0/DrawingShape.pdb
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.3/3.3/obj/Debug/net7.0/DrawingShape.csproj.AssemblyReference.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.3/3.3/obj/Debug/net7.0/DrawingShape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.3/3.3/obj/Debug/net7.0/DrawingShape.AssemblyInfoInputs.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.3/3.3/obj/Debug/net7.0/DrawingShape.AssemblyInfo.cs
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.3/3.3/obj/Debug/net7.0/DrawingShape.csproj.CoreCompileInputs.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.3/3.3/obj/Debug/net7.0/DrawingShape.dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.3/3.3/obj/Debug/net7.0/refint/DrawingShape.dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.3/3.3/obj/Debug/net7.0/DrawingShape.pdb
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.3/3.3/obj/Debug/net7.0/DrawingShape.genruntimeconfig.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 3/3.3/3.3/obj/Debug/net7.0/ref/DrawingShape.dll
