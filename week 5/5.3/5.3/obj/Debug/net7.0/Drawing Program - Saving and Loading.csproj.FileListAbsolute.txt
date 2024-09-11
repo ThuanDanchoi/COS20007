@@ -1,0 +1,15 @@
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 5/5.3/5.3/obj/Debug/net7.0/Drawing Program - Saving and Loading.csproj.AssemblyReference.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 5/5.3/5.3/obj/Debug/net7.0/Drawing Program - Saving and Loading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 5/5.3/5.3/obj/Debug/net7.0/Drawing Program - Saving and Loading.AssemblyInfoInputs.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 5/5.3/5.3/obj/Debug/net7.0/Drawing Program - Saving and Loading.AssemblyInfo.cs
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 5/5.3/5.3/obj/Debug/net7.0/Drawing Program - Saving and Loading.csproj.CoreCompileInputs.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 5/5.3/5.3/bin/Debug/net7.0/Drawing Program - Saving and Loading
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 5/5.3/5.3/bin/Debug/net7.0/Drawing Program - Saving and Loading.deps.json
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 5/5.3/5.3/bin/Debug/net7.0/Drawing Program - Saving and Loading.runtimeconfig.json
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 5/5.3/5.3/bin/Debug/net7.0/Drawing Program - Saving and Loading.dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 5/5.3/5.3/bin/Debug/net7.0/Drawing Program - Saving and Loading.pdb
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 5/5.3/5.3/obj/Debug/net7.0/Drawing Program - Saving and Loading.dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 5/5.3/5.3/obj/Debug/net7.0/refint/Drawing Program - Saving and Loading.dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 5/5.3/5.3/obj/Debug/net7.0/Drawing Program - Saving and Loading.pdb
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 5/5.3/5.3/obj/Debug/net7.0/Drawing Program - Saving and Loading.genruntimeconfig.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 5/5.3/5.3/obj/Debug/net7.0/ref/Drawing Program - Saving and Loading.dll

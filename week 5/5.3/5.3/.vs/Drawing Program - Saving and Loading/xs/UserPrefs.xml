@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{1EC22442-92D9-4D85-92F6-44E5CE42114D}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Drawing_220Program_220-_220Saving_220and_220Loading PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="99" Column="43" />
+      <File FileName="MyCircle.cs" />
+      <File FileName="MyLine.cs" />
+      <File FileName="MyRectangle.cs" />
+      <File FileName="Shape.cs" Line="1" Column="1" />
+      <File FileName="ExetnsionMethods.cs" Line="1" Column="1" />
+      <File FileName="Drawing.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Drawing Program - Saving and Loading" expanded="True">
+            <Node name="Drawing Program - Saving and Loading" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

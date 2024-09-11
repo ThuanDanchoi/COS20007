@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{1EC22442-92D9-4D85-92F6-44E5CE42114D}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="21" Column="15" />
+      <File FileName="MyCircle.cs" Line="4" Column="24" />
+      <File FileName="MyLine.cs" Line="15" Column="26" />
+      <File FileName="MyRectangle.cs" Line="13" Column="19" />
+      <File FileName="Drawing.cs" Line="5" Column="24" />
+      <File FileName="Shape.cs" Line="5" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MultipleShape" expanded="True">
+            <Node name="MultipleShape" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MultipleShape PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

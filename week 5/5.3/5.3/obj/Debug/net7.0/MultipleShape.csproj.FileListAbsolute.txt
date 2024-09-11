@@ -1,0 +1,15 @@
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 4/4.1/4.1/bin/Debug/net7.0/MultipleShape
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 4/4.1/4.1/bin/Debug/net7.0/MultipleShape.deps.json
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 4/4.1/4.1/bin/Debug/net7.0/MultipleShape.runtimeconfig.json
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 4/4.1/4.1/bin/Debug/net7.0/MultipleShape.dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 4/4.1/4.1/bin/Debug/net7.0/MultipleShape.pdb
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 4/4.1/4.1/obj/Debug/net7.0/MultipleShape.csproj.AssemblyReference.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 4/4.1/4.1/obj/Debug/net7.0/MultipleShape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 4/4.1/4.1/obj/Debug/net7.0/MultipleShape.AssemblyInfoInputs.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 4/4.1/4.1/obj/Debug/net7.0/MultipleShape.AssemblyInfo.cs
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 4/4.1/4.1/obj/Debug/net7.0/MultipleShape.csproj.CoreCompileInputs.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 4/4.1/4.1/obj/Debug/net7.0/MultipleShape.dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 4/4.1/4.1/obj/Debug/net7.0/refint/MultipleShape.dll
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 4/4.1/4.1/obj/Debug/net7.0/MultipleShape.pdb
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 4/4.1/4.1/obj/Debug/net7.0/MultipleShape.genruntimeconfig.cache
+/Users/thuanduc/Documents/thuan's folder/work/COS20007/week 4/4.1/4.1/obj/Debug/net7.0/ref/MultipleShape.dll
